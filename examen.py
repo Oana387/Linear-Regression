@@ -19,7 +19,7 @@ import seaborn as sns
 from scipy.stats import pearsonr
 
 #Citim setul de date
-df = pd.read_csv("/Users/denisivan/Documents/Scoala/AED Examen/laptop_price.csv", encoding='latin1')
+df = pd.read_csv("/Users/oana/Documents/Scoala/AED Examen/laptop_price.csv", encoding='latin1')
 
 #Aflam structura setului de date si informatii despre acesta
 print(df.info())
