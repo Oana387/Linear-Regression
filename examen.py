@@ -3,7 +3,7 @@
 """
 Created on Sat Jan 20 10:35:37 2024
 
-@author: denisivan
+@author: oana
 """
 
 import statsmodels.api as sm
